@@ -6,9 +6,7 @@ My professional journey began in 2019 after joining NMTronics India Pvt Ltd. as 
 
 I am a Graduate student from University of Waterloo in Electrical and Computer Engineering which i started to pursue from January 2022. HEre i was able to optimize and enhance my skills to a new level in Software domains. I am currently looking for an opportunity as a Software Engineer to upgrade my technical skills and show out the ability as a Developer.
 
-### MY Skills
-
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+### MY Skills<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 Python
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
