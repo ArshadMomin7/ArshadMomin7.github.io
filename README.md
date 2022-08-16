@@ -1,5 +1,5 @@
-![Arshad - Github Banner] <img width ='480px' src ='./photos/waterloo.jpg'> 
-
+<img width ='480px' src ='./photos/waterloo.jpg'> 
+[
 
 ### Hi there 👋
 
