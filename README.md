@@ -6,8 +6,46 @@ My professional journey began in 2019 after joining NMTronics India Pvt Ltd. as 
 
 I am a Graduate student from University of Waterloo in Electrical and Computer Engineering which i started to pursue from January 2022. HEre i was able to optimize and enhance my skills to a new level in Software domains. I am currently looking for an opportunity as a Software Engineer to upgrade my technical skills and show out the ability as a Developer.
 
-### MY Skills<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-Python 
+### MY Skills<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> 
+[![Python Badge](https://img.shields.io/badge/Programming%20Language-Python-blue)]
+[![C Badge](https://img.shields.io/badge/Programming%20Language-C-blue)]
+[![Cpp Badge](https://img.shields.io/badge/Programming%20Language-CPP-blue)]
+[![JAVA Badge](https://img.shields.io/badge/Programming%20Language-JAVA-blue)]
+[![Pandas Badge](https://img.shields.io/badge/Machine%20Learning-Pandas-red)]
+[![NumPy Badge](https://img.shields.io/badge/Machine%20Learning-NumPy-red)]
+[![Jupyter Badge](https://img.shields.io/badge/Machine%20Learning-Jupyter-red)]
+
+
+### Tools
+![](https://img.shields.io/badge/Tools-VSCode-red)
+![](https://img.shields.io/badge/Tools-Docker-red)
+![](https://img.shields.io/badge/Tools-GitLab-red)
+![](https://img.shields.io/badge/Tools-Ubuntu-red)
+![](https://img.shields.io/badge/Tools-IBM%20SPSS-red)
+![](https://img.shields.io/badge/Tools-Code%20Composer%20Studio-red)
+
+
+### Testing
+![](https://img.shields.io/badge/Testing-KLEE-green)
+![](https://img.shields.io/badge/Testing-Fuzzing-green)
+![](https://img.shields.io/badge/Testing-Symbolic%20Execution-green)
+![](https://img.shields.io/badge/Testing-Unit%20Testing-green)
+![](https://img.shields.io/badge/Testing-Black--Box%20Testing-green)
+![](https://img.shields.io/badge/Testing-Dafny-green)
+![](https://img.shields.io/badge/Testing-Code%20Coverage-green)
+
+### Processes
+![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
+![](https://img.shields.io/badge/Processes-Agile-yellowgreen)
+![](https://img.shields.io/badge/Processes-Leadership-yellowgreen)
+![](https://img.shields.io/badge/Processes-LeadDevelopment-yellowgreen)
+![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
+
+### Frameworks
+![](https://img.shields.io/badge/Frameworks-Wordpress-orange)
+
+
+<!--
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -16,6 +54,7 @@ Python
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+-->
 
 ## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/arshadm435)
