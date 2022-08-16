@@ -1,4 +1,4 @@
-[![Arshad - Github Banner](./photos/waterloo.jpg)]
+![Arshad - Github Banner] <img width ='480px' src ='./photos/waterloo.jpg'> 
 
 
 ### Hi there 👋
