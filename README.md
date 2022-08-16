@@ -1,4 +1,7 @@
-<img width ='480px' align= 'center' src ="./photos/waterloo.jpg"> 
+<p align="center">
+    <img width ='480px' src ="./photos/waterloo.jpg"> 
+</p>
+
 
 ### Hi there 👋
 
