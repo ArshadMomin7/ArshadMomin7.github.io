@@ -19,6 +19,12 @@ I started my graduate studies in electrical and computer engineering at the Univ
 ![Pandas Badge](https://img.shields.io/badge/Machine%20Learning-Pandas-red)
 ![NumPy Badge](https://img.shields.io/badge/Machine%20Learning-NumPy-red)
 ![Jupyter Badge](https://img.shields.io/badge/Machine%20Learning-Jupyter-red)
+![Tesnorflow Badge](https://img.shields.io/badge/Machine%20Learning-Tensorflow-red)
+![Matplotlib Badge](https://img.shields.io/badge/Machine%20Learning-Matplotlib-red)
+![Pytorch Badge](https://img.shields.io/badge/Machine%20Learning-Pytorch-red)
+![Keras Badge](https://img.shields.io/badge/Machine%20Learning-Keras-red)
+![SQL Badge](https://img.shields.io/badge/Database-SQL-green)
+![SQL Badge](https://img.shields.io/badge/Data%20Analysis-SPSS-green)
 
 
 ### Tools
@@ -28,6 +34,7 @@ I started my graduate studies in electrical and computer engineering at the Univ
 ![](https://img.shields.io/badge/Tools-Ubuntu-red)
 ![](https://img.shields.io/badge/Tools-IBM%20SPSS-red)
 ![](https://img.shields.io/badge/Tools-Code%20Composer%20Studio-red)
+![](https://img.shields.io/badge/Tools-Django-red)
 
 
 ### Testing
@@ -45,6 +52,8 @@ I started my graduate studies in electrical and computer engineering at the Univ
 ![](https://img.shields.io/badge/Processes-Leadership-yellowgreen)
 ![](https://img.shields.io/badge/Processes-LeadDevelopment-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
+![](https://img.shields.io/badge/Processes-Iterative%20Model-yellowgreen)
+![](https://img.shields.io/badge/Processes-Waterfall%20Model-yellowgreen)
 
 ### Frameworks
 ![](https://img.shields.io/badge/Frameworks-Wordpress-orange)
