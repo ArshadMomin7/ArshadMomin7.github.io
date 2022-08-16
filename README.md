@@ -51,7 +51,6 @@ I started my graduate studies in electrical and computer engineering at the Univ
 ![](https://img.shields.io/badge/Processes-Agile-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Leadership-yellowgreen)
 ![](https://img.shields.io/badge/Processes-LeadDevelopment-yellowgreen)
-![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Iterative%20Model-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Waterfall%20Model-yellowgreen)
 
