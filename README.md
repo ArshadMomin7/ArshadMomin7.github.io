@@ -3,7 +3,7 @@
 </p>
 
 
-### Hi their 👋
+### Hi there 👋
 
 My name is Arshad, I have three years of programming experience and am an optimistic engineer. The development of inspection software for visual identification for the Indian Space Research Organization (ISRO) and the Defence Research and Development Organization (DRDO) for space applications was my proudest achievement.
 
