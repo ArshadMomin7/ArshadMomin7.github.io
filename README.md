@@ -16,10 +16,20 @@ As a SOFTWARE ENGINEER, I started my professional career in 2019. Since then, I 
 I started my graduate studies in Electrical and Computer Engineering at the University of Waterloo in January 2022. I was able to maximise and raise my software-related talents to a new level here. I'm currently seeking for a position as a Software Engineer so that I can sharpen my technical abilities and demonstrate my developer abilities.
 
 ### MY Skills<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> 
+
+## Programming Languages
 ![Python Badge](https://img.shields.io/badge/Programming%20Language-Python-blue)
 ![C Badge](https://img.shields.io/badge/Programming%20Language-C-blue)
 ![Cpp Badge](https://img.shields.io/badge/Programming%20Language-CPP-blue)
 ![JAVA Badge](https://img.shields.io/badge/Programming%20Language-JAVA-blue)
+![SQL](https://img.shields.io/badge/Programming%20Language-SQL-blue)
+![Java Script](https://img.shields.io/badge/Programming%20Language-Java_Script-blue)
+![Dart](https://img.shields.io/badge/Programming%20Language-Dart-blue)
+![JPA and Hibernate](https://img.shields.io/badge/Programming%20Language-JPA_and_Hibernate-blue)
+![RESTful](https://img.shields.io/badge/Programming%20Language-RESTful-blue)
+![JAVA Spring](https://img.shields.io/badge/Programming%20Language-JAVA_Spring-blue)
+
+## Machine learning 
 ![Pandas Badge](https://img.shields.io/badge/Machine%20Learning-Pandas-red)
 ![NumPy Badge](https://img.shields.io/badge/Machine%20Learning-NumPy-red)
 ![Jupyter Badge](https://img.shields.io/badge/Machine%20Learning-Jupyter-red)
@@ -27,18 +37,26 @@ I started my graduate studies in Electrical and Computer Engineering at the Univ
 ![Matplotlib Badge](https://img.shields.io/badge/Machine%20Learning-Matplotlib-red)
 ![Pytorch Badge](https://img.shields.io/badge/Machine%20Learning-Pytorch-red)
 ![Keras Badge](https://img.shields.io/badge/Machine%20Learning-Keras-red)
-![SQL Badge](https://img.shields.io/badge/Database-SQL-green)
-![SQL Badge](https://img.shields.io/badge/Data%20Analysis-SPSS-green)
 
-
-### Tools
+### Tools and Frameworks
 ![](https://img.shields.io/badge/Tools-VSCode-red)
 ![](https://img.shields.io/badge/Tools-Docker-red)
 ![](https://img.shields.io/badge/Tools-GitLab-red)
 ![](https://img.shields.io/badge/Tools-Ubuntu-red)
 ![](https://img.shields.io/badge/Tools-IBM%20SPSS-red)
 ![](https://img.shields.io/badge/Tools-Code%20Composer%20Studio-red)
+![](https://img.shields.io/badge/Tools-Microsoft_SQL-red)
+![](https://img.shields.io/badge/Tools-Jira-red)
+![](https://img.shields.io/badge/Tools-Git-red)
+![](https://img.shields.io/badge/Tools-Eclipse-red)
 ![](https://img.shields.io/badge/Tools-Django-red)
+![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-red)
+![](https://img.shields.io/badge/Tools-Apache_NetBeans-red)
+![](https://img.shields.io/badge/Tools-PowerBI-red)
+![](https://img.shields.io/badge/Tools-MySQL-red)
+![](https://img.shields.io/badge/Tools-PostgresSQL-red)
+![](https://img.shields.io/badge/Tools-REACT-red)
+![](https://img.shields.io/badge/Tools-MongoDB-red)
 
 
 ### Testing
@@ -58,8 +76,6 @@ I started my graduate studies in Electrical and Computer Engineering at the Univ
 ![](https://img.shields.io/badge/Processes-Iterative%20Model-yellowgreen)
 ![](https://img.shields.io/badge/Processes-Waterfall%20Model-yellowgreen)
 
-### Frameworks
-![](https://img.shields.io/badge/Frameworks-Wordpress-orange)
 
 
 <!--
