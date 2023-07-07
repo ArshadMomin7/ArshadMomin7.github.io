@@ -11,6 +11,11 @@
     --font-base: "Bai Jamjuree";
 }
 
+.square-image:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
 body {
     background-color: var(--color-base2);
     color: var(--color-body);
